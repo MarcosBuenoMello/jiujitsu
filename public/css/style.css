@@ -1,0 +1,17 @@
+
+.file {
+  visibility: hidden;
+  position: absolute;
+}
+
+.file_video {
+  visibility: hidden;
+  position: absolute;
+}
+
+.img-thumbnail{
+  height: 200px;
+}
+
+.la-menu{font-size: 20px !important;}
+
